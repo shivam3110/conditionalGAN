@@ -24,7 +24,17 @@ This repository is dedicated to the exploration and implementation of Conditiona
 
 Feel free to explore and leverage these notebooks to gain insights into the intricacies of Conditional GANs. Each notebook is accompanied by detailed comments and explanations, suitable for both beginners and experienced practitioners in the field of generative adversarial networks.
 
+## Acknowledgment
+
+The code in the notebooks "GAN_5_DCGAN_pytorch_128x128.ipynb" is adapted from the PyTorch DCGAN(https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) implementation.
+
 ## Getting Started
+
+To begin, clone the repository and open the Jupyter Notebooks using your preferred environment. Experiment with the provided code, modify parameters, and observe the results of generating images conditioned on various attributes.
+
+For inquiries or suggestions, please feel free to reach out.
+
+*Initial commit: [Timestamp]*
 
 To begin, clone the repository and open the Jupyter Notebooks using your preferred environment. Experiment with the provided code, modify parameters, and observe the results of generating images conditioned on various attributes.
 
