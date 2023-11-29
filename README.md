@@ -40,4 +40,3 @@ To begin, clone the repository and open the Jupyter Notebooks using your preferr
 
 For inquiries or suggestions, please feel free to reach out.
 
-*Initial commit: [Timestamp]*
