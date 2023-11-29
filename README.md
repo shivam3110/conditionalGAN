@@ -1,18 +1,6 @@
 # conditionalGAN
 
-<p align="center">
-  <img src="![b1e903da-f8b6-43d9-b7c8-b76087c2376d](https://github.com/shivam3110/conditionalGAN/assets/56818878/ef0efe71-3c9e-4745-b5f7-63ae5aa3d4fe)
-" width="50" alt="Image 1">
-  <img src="![DALL·E 2023-11-29 22 38 30 - _Panda Exploring ML Landscapes in lab while working on computer and two big screens full of code_  Description_ Visualize the diverse landscapes of ma](https://github.com/shivam3110/conditionalGAN/assets/56818878/8ee4835e-fd45-45b8-945b-544bb6a1825b)
-" width="50" alt="Image 2">
-</p>
-
-<p align="center">
-  <img src="[image5.jpg](https://aicdn.picsart.com/88d4fe41-94d7-4ff1-b2d8-de3713e1f265.jpg)" width="200" alt="Image 5">
-  <img src="image6.jpg" width="200" alt="Image 6">
-  <img src="image7.jpg" width="200" alt="Image 7">
-  <img src="image8.jpg" width="200" alt="Image 8">
-</p>
+![Picture2](https://github.com/shivam3110/conditionalGAN/assets/56818878/f0197531-d2d4-4a43-bdeb-2927c274d3e2)
 
 
 # Conditional GAN Repository
